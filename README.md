@@ -2,7 +2,7 @@
   This README will be shown on your profile. Update the placeholders & save!
 -->
 
-<h1 align="center">Hi 👋, I’m Rodrigo Miles</h1>
+<h1 align="center">Hi 👋, I’m Rodrimiles</h1>
 <p align="center">
   <a href="https://github.com/rodrimiles">
     <img alt="Profile views" src="https://komarev.com/ghpvc/?username=rodrimiles&color=blue"/>
@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Project X**, a [link-to-project] tool for ...
+- 🔭 I’m currently working on ****, a [link-to-project] tool for ...
 - 🌱 I’m learning **Kubernetes**, **Go**, and **Rust**.
 - 👯 I’m open to collaborating on **open-source** projects in **web dev** & **cloud infra**.
 - 💬 Ask me about **JavaScript**, **TypeScript**, **React**, **Node.js**.
@@ -76,7 +76,7 @@
 
 ## 📫 How to Reach Me
 
-- Email: youremail@example.com  
+- Email: rodrigoamaral.escola@gmail.com  
 - LinkedIn: [linkedin.com/in/rodrimiles](https://linkedin.com/in/rodrimiles)  
 - Twitter: [@rodrimiles](https://twitter.com/rodrimiles)  
 

@@ -78,7 +78,6 @@
 
 - Email: rodrigoamaral.escola@gmail.com  
 - LinkedIn: [linkedin.com/in/rodrimiles](https://linkedin.com/in/rodrimiles)  
-- Twitter: [@rodrimiles](https://twitter.com/rodrimiles)  
 
 ---
 
